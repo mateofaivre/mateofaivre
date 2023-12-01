@@ -6,7 +6,7 @@ Creative Web Developer
 
 * 🌍  I'm based in Dijon - Lyon - France 🇫🇷
 * ✉️  You can contact me at [hello@mateofaivre.fr](mailto:hello@mateofaivre.fr)
-* 🧠  I'm learning Vue.js, WordPress, Strapi,
+* 🧠  I'm learning Vue.js, WordPress, Strapi...
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/mateofaivre" target="_blank" rel="noreferrer"><img
